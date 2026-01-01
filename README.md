@@ -55,3 +55,7 @@ Table Name	Description
 - Work with real-world business scenarios
 
 - Write clean, optimized, and reusable SQL queriesueries
+
+
+# EER (Enhanced ER) Diagram
+<img width="1272" height="936" alt="Screenshot 2026-01-01 133936" src="https://github.com/user-attachments/assets/d5b979a6-f305-4857-8427-4b126dfeac5c" />
