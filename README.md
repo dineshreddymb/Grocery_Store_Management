@@ -1,5 +1,5 @@
-🛒 Retail & Grocery Store SQL Project
-📌 Domain Knowledge
+# 🛒 Retail & Grocery Store SQL Project
+## 📌 Domain Knowledge
 
 The Retail and Grocery domain focuses on managing key operations such as inventory, suppliers, customer orders, employees, and product categories.
 Effective data management in this domain helps businesses:
@@ -57,5 +57,5 @@ Table Name	Description
 - Write clean, optimized, and reusable SQL queriesueries
 
 
-# EER (Enhanced ER) Diagram
+# EER (Enhanced ER) Diagram 
 <img width="1272" height="936" alt="Screenshot 2026-01-01 133936" src="https://github.com/user-attachments/assets/d5b979a6-f305-4857-8427-4b126dfeac5c" />
